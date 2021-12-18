@@ -7,7 +7,7 @@
 <details markdown="1">
 <summary>자원</summary>
 
-<details markdown="1">
+<details markdown="1" style="margin-left:14px">
 <summary>/resources</summary>
 
 **자원 등록**
@@ -58,7 +58,7 @@ Content-type: application/json;charset=UTF-8
 
 </details>
 
-<details markdown="1">
+<details markdown="1" style="margin-left:14px">
 <summary>/resources/{id}</summary>
 
 **자원 상세 조회**
